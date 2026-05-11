@@ -1,0 +1,10 @@
+{
+  "event_name": "order_delivered",
+  "version": "v1",
+  "required_fields": [
+    "order_id",
+    "event_type",
+    "event_time",
+    "delivered_customer_date"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "event_name": "payment_confirmed",
+  "version": "v1",
+  "required_fields": [
+    "order_id",
+    "payment_id",
+    "event_type",
+    "event_time",
+    "payment_value"
+  ]
+}
